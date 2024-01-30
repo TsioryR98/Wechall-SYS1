@@ -136,3 +136,5 @@ return 'SteppinStones42Pie'; # <-´ ?>
    - ` "solution.txt; cat solution.txt > ~/solutionPath1.txt" ` : C'est l'argument fourni à la commande "charp".
       - `solution.txt` : C'est une chaîne de caractères représentant un fichier appelé "solution.txt"
       - ` cat solution.txt > ~/solutionPath1.txt ` : C'est une deuxième commande qui sera exécutée après le point-virgule. Elle utilise la commande cat pour afficher le contenu du fichier "solution.txt" et redirige la sortie (>) vers un nouveau fichier appelé "solutionPath1.txt" dans le répertoire personnel de l'utilisateur `~`
+
+        
