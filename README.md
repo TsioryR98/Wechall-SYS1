@@ -8,7 +8,7 @@ La commande `ls -R` permet de lister de manière récursive les fichiers et les 
    
    + La solution pour le Level 0 est : bitwarrior
 
-   `cat /home/level/00_welcome`
+   `cd /home/level/00_welcome` et commande `cat`
 
 2. **Level 1:**
    
