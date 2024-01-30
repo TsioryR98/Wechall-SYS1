@@ -6,13 +6,13 @@ La commande `ls -R` permet de lister de manière récursive les fichiers et les 
     
 1. **Level 0:**
    
-   + La solution pour le Level 0 est :
+   + La solution pour le Level 0 est : bitwarrior
 
    `cat /home/level/00_welcome`
 
 2. **Level 1:**
    
-   + La solution pour le Level 1 est :
+   + La solution pour le Level 1 est : patience
      
    ` cd /home /level/01_choice_tree` .La soution est dans `cd. /blue/hats/grey/soltion/patience`
 
@@ -20,28 +20,28 @@ La commande `ls -R` permet de lister de manière récursive les fichiers et les 
    
 3. **Level 2:**
    
-   + La solution pour le Level 2 est :
+   + La solution pour le Level 2 est : HiddenIsConfig
 
   `cd / home/level/02/.porb$`
   `cat .solution`
 
 4. **Level 3:**
    
-   + La solution pour le Level 3 est :
+   + La solution pour le Level 3 est : RepeatingHistory
 
    `cd /home/level/03$` puis avec la commande `ls -la`
    `cat .bash_history`
 
 5. **Level 4:**
    
-   + La solution pour le Level 4 est "AndOfCourseIDoKnowChown".
+   + La solution pour le Level 4 est AndOfCourseIDoKnowChown.
 
    `~/level/04_kwisatz$`
    `cat README2.md`
 
 6. **Level 5:**
    
-   + La solution pour le Level 3 est :
+   + La solution pour le Level 3 est : OKPRIVATE
 
    `cd /home/level/05_privacy$` et avec la commande `ls -la`
    `cat README.md`
@@ -116,7 +116,6 @@ return 'SteppinStones42Pie'; # <-´ ?>
 + Nous pouvons ainsi obtenier un code en HTML et Php comme solution.
 
 
-
 ## Warchall: Choose your Path `/home/level/10/`
 
 + il faut acceder au level 10 par la commande `cd /home/level/10_choose_your_Path`
@@ -136,5 +135,7 @@ return 'SteppinStones42Pie'; # <-´ ?>
    - ` "solution.txt; cat solution.txt > ~/solutionPath1.txt" ` : C'est l'argument fourni à la commande "charp".
       - `solution.txt` : C'est une chaîne de caractères représentant un fichier appelé "solution.txt"
       - ` cat solution.txt > ~/solutionPath1.txt ` : C'est une deuxième commande qui sera exécutée après le point-virgule. Elle utilise la commande cat pour afficher le contenu du fichier "solution.txt" et redirige la sortie (>) vers un nouveau fichier appelé "solutionPath1.txt" dans le répertoire personnel de l'utilisateur `~`
+
++ La solution est `EpidermalGlance`
 
         
